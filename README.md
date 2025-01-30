@@ -26,7 +26,7 @@ El JS, solo cuenta con una interaccion basica de un saludo.
 Se agrego unos nuevos estilos, tanto en el footer, button, imagen y containers.
 
 ```css
-/* Nuevos componentes añadidos */
+/* Nuevos componentes */
 footer {
     background-color: #333;
     color: #fff;
